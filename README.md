@@ -1,7 +1,7 @@
 # ACM-GUI
-
-
-
+ 
+ 
+ 
 ## Description
 ACM-GUI is a GUI based client for my account management tool. It provides better ease of use, but is much slower performance wise, and isn't recommended if you are able to use the terminal based application [here](https://github.com/lioen-dev/ACM).
 
